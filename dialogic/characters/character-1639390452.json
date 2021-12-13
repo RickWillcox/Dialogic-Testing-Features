@@ -1,0 +1,20 @@
+{
+	"color": "#ffecf31f",
+	"description": "The Beach Chief near where the player washes ashore",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1639390452.json",
+	"mirror_portraits": false,
+	"name": "Beach Chief Sam",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -145,
+	"offset_y": -55,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://faces/villagechief.png"
+		}
+	],
+	"scale": 100
+}

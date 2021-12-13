@@ -1,0 +1,20 @@
+{
+	"color": "#ff4cf50f",
+	"description": "The fisherman that first discovers the player washed ashore",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1639392523.json",
+	"mirror_portraits": false,
+	"name": "Fisherman Bob",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -125,
+	"offset_y": -65,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://faces/fisherman.png"
+		}
+	],
+	"scale": 100
+}
